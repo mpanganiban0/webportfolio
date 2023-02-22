@@ -1,0 +1,32 @@
+* {
+	font-family: 'Balsamiq Sans', cursive;
+	font-size: 20px;
+	font-weight: normal;
+
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-image: url(https://wallpapers.com/images/file/dark-space-wallpaper-wyofj4xvqyfz8eg4.jpg);
+	background-size: 100%;
+	background-position: center top;
+	background-attachment: fixed;
+
+}
+
+#my-profile {
+	height: 300px;
+	width: 300px;
+	border-radius: 150px;
+	align-content: center;
+}
+
+.brand {
+	height: 60px;
+	width: 60px;
+}
+
+
